@@ -9,7 +9,7 @@
 <body class="flex justify-center items-center">
     <div>
         <div class="flex justify-between">
-            <div class="p-4">Raamatu nimi</div>
+            <div class="p-4">Raamatu nimii</div>
             <div class="p-4">{{ $book->title }}</div>
         </div>
         <div class="flex justify-between">
