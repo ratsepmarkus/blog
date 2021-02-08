@@ -10,7 +10,7 @@
     <table class="table-auto border border-solid w-full">
         <thead>
             <tr>
-                <td class="p-4 bg-gray-300 font-bold text-center">Book Title</td>
+                <td class="p-4 bg-gray-300 font-bold text-center">Book Titlee</td>
                 <td class="p-4 bg-gray-300 font-bold text-center">Book realese date</td>
             </tr>
         </thead>
